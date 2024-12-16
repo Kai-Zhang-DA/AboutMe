@@ -1,5 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning data analysis<br>💬 Ask me about what the current project I am on<br>⚡ Fun fact
+🌱 I’m currently learning data analysis<br>
+💬 Ask me about what the current project I am on<br>
+⚡ Fun Fact<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It would take 181 million years to download all the data from the internet.
 
 
 ## 🌐 Socials:
